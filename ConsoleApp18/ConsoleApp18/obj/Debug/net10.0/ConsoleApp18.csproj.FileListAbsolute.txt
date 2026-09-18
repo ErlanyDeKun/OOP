@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\ООП\ConsoleApp18\ConsoleApp18\bin\Debug\net10.0\ConsoleApp18.exe
+C:\Users\User\Desktop\ООП\ConsoleApp18\ConsoleApp18\bin\Debug\net10.0\ConsoleApp18.deps.json
+C:\Users\User\Desktop\ООП\ConsoleApp18\ConsoleApp18\bin\Debug\net10.0\ConsoleApp18.runtimeconfig.json
+C:\Users\User\Desktop\ООП\ConsoleApp18\ConsoleApp18\bin\Debug\net10.0\ConsoleApp18.dll
+C:\Users\User\Desktop\ООП\ConsoleApp18\ConsoleApp18\bin\Debug\net10.0\ConsoleApp18.pdb
+C:\Users\User\Desktop\ООП\ConsoleApp18\ConsoleApp18\obj\Debug\net10.0\ConsoleApp18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ООП\ConsoleApp18\ConsoleApp18\obj\Debug\net10.0\ConsoleApp18.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ООП\ConsoleApp18\ConsoleApp18\obj\Debug\net10.0\ConsoleApp18.AssemblyInfo.cs
+C:\Users\User\Desktop\ООП\ConsoleApp18\ConsoleApp18\obj\Debug\net10.0\ConsoleApp18.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ООП\ConsoleApp18\ConsoleApp18\obj\Debug\net10.0\ConsoleApp18.dll
+C:\Users\User\Desktop\ООП\ConsoleApp18\ConsoleApp18\obj\Debug\net10.0\refint\ConsoleApp18.dll
+C:\Users\User\Desktop\ООП\ConsoleApp18\ConsoleApp18\obj\Debug\net10.0\ConsoleApp18.pdb
+C:\Users\User\Desktop\ООП\ConsoleApp18\ConsoleApp18\obj\Debug\net10.0\ConsoleApp18.genruntimeconfig.cache
+C:\Users\User\Desktop\ООП\ConsoleApp18\ConsoleApp18\obj\Debug\net10.0\ref\ConsoleApp18.dll
+C:\Users\User\Desktop\ООП\ConsoleApp18\ConsoleApp18\obj\Debug\net10.0\ConsoleA.0A57F6D4.Up2Date
