@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\ООП\ConsoleApp14\ConsoleApp14\bin\Debug\net10.0\ConsoleApp14.exe
+C:\Users\User\Desktop\ООП\ConsoleApp14\ConsoleApp14\bin\Debug\net10.0\ConsoleApp14.deps.json
+C:\Users\User\Desktop\ООП\ConsoleApp14\ConsoleApp14\bin\Debug\net10.0\ConsoleApp14.runtimeconfig.json
+C:\Users\User\Desktop\ООП\ConsoleApp14\ConsoleApp14\bin\Debug\net10.0\ConsoleApp14.dll
+C:\Users\User\Desktop\ООП\ConsoleApp14\ConsoleApp14\bin\Debug\net10.0\ConsoleApp14.pdb
+C:\Users\User\Desktop\ООП\ConsoleApp14\ConsoleApp14\obj\Debug\net10.0\ConsoleApp14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ООП\ConsoleApp14\ConsoleApp14\obj\Debug\net10.0\ConsoleApp14.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ООП\ConsoleApp14\ConsoleApp14\obj\Debug\net10.0\ConsoleApp14.AssemblyInfo.cs
+C:\Users\User\Desktop\ООП\ConsoleApp14\ConsoleApp14\obj\Debug\net10.0\ConsoleApp14.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ООП\ConsoleApp14\ConsoleApp14\obj\Debug\net10.0\ConsoleApp14.dll
+C:\Users\User\Desktop\ООП\ConsoleApp14\ConsoleApp14\obj\Debug\net10.0\refint\ConsoleApp14.dll
+C:\Users\User\Desktop\ООП\ConsoleApp14\ConsoleApp14\obj\Debug\net10.0\ConsoleApp14.pdb
+C:\Users\User\Desktop\ООП\ConsoleApp14\ConsoleApp14\obj\Debug\net10.0\ConsoleApp14.genruntimeconfig.cache
+C:\Users\User\Desktop\ООП\ConsoleApp14\ConsoleApp14\obj\Debug\net10.0\ref\ConsoleApp14.dll
+C:\Users\User\Desktop\ООП\ConsoleApp14\ConsoleApp14\obj\Debug\net10.0\ConsoleA.B173F6D4.Up2Date
